@@ -3,33 +3,33 @@ Excel diff tool for Windows (GUI + CLI)
 
 ii-excel-diff is a Windows tool for comparing Excel files.
 
-Features
+## Features
 - Visual Excel diff
 - GUI and CLI support
-- WinMerge integration
 
-GUI Image
+## GUI Image
 
 ![screenshot](docs/screenshot1.png)
 
-CUI Image
+## CUI Image
 
 ![screenshot](docs/screenshot2.png)
 
-Sample Input/Output Filles
+## Sample Input/Output Filles
 
 Excel files are included in the sample directory.
 
 
-Trial
+## Trial
 
 This software can be used for a 3-month trial period.
+
 After the trial period, a license key is required for continued use.
 
 
-
-Full version
+## Full version
 
 Available at Vector
+
 https://www.vector.co.jp/soft/winnt/business/se527497.html
 
