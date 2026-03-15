@@ -26,14 +26,18 @@ Excel files are included in the sample directory.
 
 ## Trial
 
+Get the trial from Release.
+
 This software can be used for a 3-month trial period.
 
 After the trial period, a license key is required for continued use.
 
 
-## Full version
+## Production
 
-Available at [Vector](https://www.vector.co.jp/soft/winnt/business/se527497.html) / [note](https://note.com/just_vole1456/n/n32ec4d34431b)
+Please purchase the product from [Vector](https://www.vector.co.jp/soft/winnt/business/se527497.html) or [note](https://note.com/just_vole1456/n/n32ec4d34431b).
+
+Please register the license obtained during the purchase process with this software.
 
 
 ## Others
