@@ -26,7 +26,7 @@ Excel files are included in the sample directory.
 
 ## Trial
 
-Get the trial from Release.
+Get the trial from Releases.
 
 This software can be used for a 3-month trial period.
 
